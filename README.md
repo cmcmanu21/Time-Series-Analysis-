@@ -10,7 +10,7 @@ The goal of this project was to perform time-series analyses by forecasting glob
 
 3.) ARIMA model
 
-4.) Hybrid model combining exponential smoothing model and ARIMA model
+4.) Hybrid model combining Exponential smoothing model and ARIMA model
 
 After plotting each model, we compared each result, and the model with the highest accuracy was chosen as the best predicting model.
 
