@@ -2,7 +2,7 @@
 ----
 This was a collaborative effort by Bercario Bodie, Lenka Raslová, Catherine Wang, Xiaomeng Zhou, and myself, Christopher McManus for Dr. Xue Guo's Advanced Business Analytics course at UNC Charlotte's School of Data Science.
 
-The goal of this project was to perform time-series analyses by forecasting global CO₂ emissions. With global CO₂ levels continuing to rise, we felt it was important to highlight the increase in global CO₂ emission levels between 1958 and 2021 with time series plots. We went one step further by adding a predictive component to predict future global CO₂ emissions levels. To predict future values of global CO₂ emission levels we looked at four different time series models...
+The goal of this project was to perform time-series analyses by forecasting global CO₂ emissions. With global CO₂ levels continuing to rise, we felt it was important to highlight the increase in global CO₂ emission levels between 1958 and 2018 with time series plots. We went one step further by adding a predictive component to predict future global CO₂ emissions levels. To predict future values of global CO₂ emission levels we looked at four different time series models...
 
 1.) Linear regression model
 
