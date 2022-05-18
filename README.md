@@ -18,4 +18,4 @@ After plotting each model, we compared each result, and the model with the highe
 
 Because this was a business analytics course, we also looked at companies like Coca-cola and Apple reducing their carbon footprint. Additionally, we offered suggestions to companies on how they can reduce their carbon footprint such as becoming ISO 14001 certified.
 
-More information on the project background, model results, and suggestions can be found in the .... file.
+More information on the project background, model results, and suggestions can be found in the "CO2 Emissions Report" file.
