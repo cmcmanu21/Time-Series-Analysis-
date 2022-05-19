@@ -22,4 +22,6 @@ Because this was a business analytics course, we also looked at companies like C
 
 More information on the project background, model results, and suggestions can be found in the "CO2 Emissions Report" file.
 
+To reproduce this project, download the "Time Series Analysis R Script" file and cleaned dataset and make sure to change the working directory in R!
+
 Data was sourced from The World Bank.org
